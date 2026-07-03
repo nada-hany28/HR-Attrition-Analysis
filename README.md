@@ -13,19 +13,19 @@ This project predicts which employees are likely to leave before they resign.
 ## Key Visualizations
 
 **Overall attrition breakdown**
-![Attrition Count](Employee_Attrition_Count.png)
+![Attrition Count](Employee%20Attrition%20Count.png)
 
 **Attrition by department**
-![Attrition by Department](Attrition_by_Department.png)
+![Attrition by Department](Attrition%20by%20Department.png)
 
 **Attrition by business travel frequency**
-![Attrition by Business Travel](Employee_Attrition_by_Business_Travel.png)
+![Attrition by Department](Attrition%20by%20Department.png)
 
 **Age distribution**
-![Age Distribution](Age_Distribution.png)
+![Age Distribution](Age%20Distribution.png)
 
 **Monthly income distribution**
-![Monthly Income Distribution](Monthly_Income_Distribution.png)
+![Monthly Income Distribution](Monthly%20Income%20Distribution.png)
 
 ## Tools Used
 | Tool | Purpose |
