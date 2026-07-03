@@ -40,3 +40,5 @@ This project predicts which employees are likely to leave before they resign.
 
 ## Dataset
 IBM HR Analytics Employee Attrition — [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+Add visualization images
